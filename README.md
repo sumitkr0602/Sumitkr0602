@@ -1,5 +1,3 @@
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumit0o0&show_icons=true&theme=transparent)
-
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate developer from India, Who's learning Web & UI/UX designing.</h3>
