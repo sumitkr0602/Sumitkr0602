@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate developer from India, Who's learning Web & UI/UX designing.</h3>
+<h3 align="center">A passionate developer from India, Who's learning Web development & UI/UX designing.</h3>
 
 - 🌱 I’m currently learning **Fronted, Backend, UI/UX designing.**
 
