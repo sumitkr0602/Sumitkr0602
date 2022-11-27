@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit0o0)](https://github.com/Sumit0o0/github-readme-stats)
 
-![DU SOL](https://user-images.githubusercontent.com/97524217/204145125-ed1d71aa-fa58-4baf-b21a-f7e9dcc131ad.jpg)
+
