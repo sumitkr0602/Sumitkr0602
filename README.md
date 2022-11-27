@@ -12,7 +12,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
-Frontendmentor **https://www.frontendmentor.io/profile/Sumit0o0** 
+Frontendmentor **<a href="https://www.frontendmentor.io/profile/Sumit0o0" target="_blank" rel="noreferrer">** 
 <p align="left">
 </p>
 
