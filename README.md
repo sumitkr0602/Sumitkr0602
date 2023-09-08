@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Fronted, Backend, UI/UX designing.**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS,TAILWIND,JQUERY,NODEJS,MONGODB,PYTHON,DJANGO,SQL**
 
 - 📫 How to reach me **sumitcar98@gmail.com**
 
