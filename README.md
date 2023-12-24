@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+<h1 align="center">Hi 👋🏿, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate developer from India, Who's learning Web development & UI/UX designing.</h3>
 
 - 🌱 NonTech Guy doing Tech Thing as **Full Stack Web Developer**
