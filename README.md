@@ -59,22 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sumit0o0/sumit0o0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/sumit0o0/sumit0o0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/sumit0o0/sumit0o0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/sumit0o0/sumit0o0/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/sumit0o0/count.svg?"  />
 </div>
