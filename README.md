@@ -1,4 +1,4 @@
-<h2 align="left">Ohh! My name... is Sumit kumar and I'm a Web Developer from Earth. Bye.</h2>
+<h2 align="left">Ohh! My name... is Sumit kumar and I'm a Web Developer. Bye.</h2>
 
 ###
 
